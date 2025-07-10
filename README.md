@@ -15,4 +15,4 @@ It supports basic arithmetic operations via remote procedure calls (RPC).
 
 - Start the server `pnpm run:server`
 
-- Run the client `pnpm run:client`
+- Run the client for testing the service `pnpm run:client`
