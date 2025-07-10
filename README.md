@@ -1,7 +1,7 @@
 # grpcalc
 
 A simple gRPC-based calculator service built with Node.js, using `@grpc/grpc-js` and `@grpc/proto-loader`.  
-It supports basic arithmetic operations via remote procedure calls.
+It supports basic arithmetic operations via remote procedure calls (RPC).
 
 ## Features
 
